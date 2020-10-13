@@ -1,2 +1,2 @@
 # nextlevelweek3-happy-backend
-Projeto em react do evento da next level week 03
+Projeto em node do evento da next level week 03
